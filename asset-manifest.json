@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aqavia_task_2_2/static/css/main.9a497ec6.css",
-    "main.js": "/aqavia_task_2_2/static/js/main.e350ebdc.js",
+    "main.js": "/aqavia_task_2_2/static/js/main.3f29e165.js",
     "index.html": "/aqavia_task_2_2/index.html",
     "main.9a497ec6.css.map": "/aqavia_task_2_2/static/css/main.9a497ec6.css.map",
-    "main.e350ebdc.js.map": "/aqavia_task_2_2/static/js/main.e350ebdc.js.map"
+    "main.3f29e165.js.map": "/aqavia_task_2_2/static/js/main.3f29e165.js.map"
   },
   "entrypoints": [
     "static/css/main.9a497ec6.css",
-    "static/js/main.e350ebdc.js"
+    "static/js/main.3f29e165.js"
   ]
 }
